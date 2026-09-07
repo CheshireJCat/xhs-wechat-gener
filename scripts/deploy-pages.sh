@@ -14,10 +14,10 @@ trap 'rm -rf "$pages_dir"' EXIT
 git -c credential.helper= -c 'credential.helper=!gh auth git-credential' clone --quiet --no-checkout "$repo_url" "$pages_dir"
 if git -C "$pages_dir" show-ref --verify --quiet refs/remotes/origin/gh-pages; then
   git -C "$pages_dir" checkout --quiet -b gh-pages origin/gh-pages
-  git -C "$pages_dir" rm -r --quiet --ignore-unmatch .
 else
   git -C "$pages_dir" checkout --quiet --orphan gh-pages
 fi
+git -C "$pages_dir" rm -r --quiet --ignore-unmatch .
 cp -R dist/. "$pages_dir/"
 touch "$pages_dir/.nojekyll"
 git -C "$pages_dir" add --all
