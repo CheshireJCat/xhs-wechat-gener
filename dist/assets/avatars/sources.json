@@ -1,0 +1,202 @@
+[
+  {
+    "id": "lorelei",
+    "label": "清新插画",
+    "src": "./assets/avatars/lorelei.png",
+    "source": "https://api.dicebear.com/10.x/lorelei/png?seed=Luna&size=256",
+    "stylePage": "https://www.dicebear.com/styles/lorelei/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "notionists",
+    "label": "黑白速写",
+    "src": "./assets/avatars/notionists.png",
+    "source": "https://api.dicebear.com/10.x/notionists/png?seed=Milo&size=256",
+    "stylePage": "https://www.dicebear.com/styles/notionists/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "open-peeps",
+    "label": "手绘人物",
+    "src": "./assets/avatars/open-peeps.png",
+    "source": "https://api.dicebear.com/10.x/open-peeps/png?seed=Sunny&size=256",
+    "stylePage": "https://www.dicebear.com/styles/open-peeps/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "pixel-art",
+    "label": "复古像素",
+    "src": "./assets/avatars/pixel-art.png",
+    "source": "https://api.dicebear.com/10.x/pixel-art/png?seed=Hana&size=256",
+    "stylePage": "https://www.dicebear.com/styles/pixel-art/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "thumbs",
+    "label": "俏皮卡通",
+    "src": "./assets/avatars/thumbs.png",
+    "source": "https://api.dicebear.com/10.x/thumbs/png?seed=Coco&size=256",
+    "stylePage": "https://www.dicebear.com/styles/thumbs/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "line-face",
+    "label": "极简线条",
+    "src": "./assets/avatars/line-face.png",
+    "source": "https://api.dicebear.com/10.x/line-face/png?seed=Remy&size=256",
+    "stylePage": "https://www.dicebear.com/styles/line-face/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "cameo",
+    "label": "复古剪影",
+    "src": "./assets/avatars/cameo.png",
+    "source": "https://api.dicebear.com/10.x/cameo/png?seed=Olive&size=256",
+    "stylePage": "https://www.dicebear.com/styles/cameo/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "clay",
+    "label": "软萌黏土",
+    "src": "./assets/avatars/clay.png",
+    "source": "https://api.dicebear.com/10.x/clay/png?seed=Mochi&size=256",
+    "stylePage": "https://www.dicebear.com/styles/clay/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "critters",
+    "label": "可爱动物",
+    "src": "./assets/avatars/critters.png",
+    "source": "https://api.dicebear.com/10.x/critters/png?seed=Bean&size=256",
+    "stylePage": "https://www.dicebear.com/styles/critters/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "cutouts",
+    "label": "剪纸拼贴",
+    "src": "./assets/avatars/cutouts.png",
+    "source": "https://api.dicebear.com/10.x/cutouts/png?seed=Poppy&size=256",
+    "stylePage": "https://www.dicebear.com/styles/cutouts/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "gaze",
+    "label": "漫画大眼",
+    "src": "./assets/avatars/gaze.png",
+    "source": "https://api.dicebear.com/10.x/gaze/png?seed=Skye&size=256",
+    "stylePage": "https://www.dicebear.com/styles/gaze/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "moods",
+    "label": "情绪表情",
+    "src": "./assets/avatars/moods.png",
+    "source": "https://api.dicebear.com/10.x/moods/png?seed=Joy&size=256",
+    "stylePage": "https://www.dicebear.com/styles/moods/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "pixelbot",
+    "label": "像素机器人",
+    "src": "./assets/avatars/pixelbot.png",
+    "source": "https://api.dicebear.com/10.x/pixelbot/png?seed=Bolt&size=256",
+    "stylePage": "https://www.dicebear.com/styles/pixelbot/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "voxel-art",
+    "label": "立体像素",
+    "src": "./assets/avatars/voxel-art.png",
+    "source": "https://api.dicebear.com/10.x/voxel-art/png?seed=Alex&size=256",
+    "stylePage": "https://www.dicebear.com/styles/voxel-art/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "voxel-bot",
+    "label": "积木机器人",
+    "src": "./assets/avatars/voxel-bot.png",
+    "source": "https://api.dicebear.com/10.x/voxel-bot/png?seed=Robo&size=256",
+    "stylePage": "https://www.dicebear.com/styles/voxel-bot/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "sprouts",
+    "label": "清新植物",
+    "src": "./assets/avatars/sprouts.png",
+    "source": "https://api.dicebear.com/10.x/sprouts/png?seed=Fern&size=256",
+    "stylePage": "https://www.dicebear.com/styles/sprouts/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "landscape",
+    "label": "山野风景",
+    "src": "./assets/avatars/landscape.png",
+    "source": "https://api.dicebear.com/10.x/landscape/png?seed=Alpine&size=256",
+    "stylePage": "https://www.dicebear.com/styles/landscape/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "planets",
+    "label": "梦幻星球",
+    "src": "./assets/avatars/planets.png",
+    "source": "https://api.dicebear.com/10.x/planets/png?seed=Nova&size=256",
+    "stylePage": "https://www.dicebear.com/styles/planets/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "marbles",
+    "label": "彩色弹珠",
+    "src": "./assets/avatars/marbles.png",
+    "source": "https://api.dicebear.com/10.x/marbles/png?seed=Iris&size=256",
+    "stylePage": "https://www.dicebear.com/styles/marbles/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  },
+  {
+    "id": "constellation",
+    "label": "星座夜空",
+    "src": "./assets/avatars/constellation.png",
+    "source": "https://api.dicebear.com/10.x/constellation/png?seed=Orion&size=256",
+    "stylePage": "https://www.dicebear.com/styles/constellation/",
+    "license": "CC0-1.0",
+    "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseEvidence": "https://www.dicebear.com/licenses/"
+  }
+]
