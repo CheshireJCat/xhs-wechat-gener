@@ -7,7 +7,7 @@ node scripts/check.mjs
 node scripts/check-consent.mjs
 node scripts/check-insert.mjs
 
-# Publish only the website. Keep source, development tools and releases private.
+# Publish only the website; omit development tools and release files from Pages.
 repo_url="$(git remote get-url origin)"
 pages_dir="$(mktemp -d)"
 trap 'rm -rf "$pages_dir"' EXIT

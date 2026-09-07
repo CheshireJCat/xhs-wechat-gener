@@ -20,13 +20,13 @@
 
 ## GitHub 与 Pages
 
-仓库：https://github.com/CheshireJCat/xhs-wechat-gener （私有）。
+仓库：https://github.com/CheshireJCat/xhs-wechat-gener （公开）。
 
 运行 `bash scripts/deploy-pages.sh`，会先检查当前工具，再把 `dist/` 同步到 `gh-pages` 分支根目录。部署使用临时目录，不切换或清理当前工作区。脚本需要 Git、GitHub CLI 和 Node.js；先通过 `gh auth login` 登录。
 
-在仓库 Settings → Pages 选择 Deploy from a branch，分支 `gh-pages`，目录 `/ (root)`。私有个人仓库需要 GitHub Pro 才能启用 Pages。预期网址为 `https://cheshirejcat.github.io/xhs-wechat-gener/`，以 GitHub Pages 部署成功后的地址为准。
+仓库 Settings → Pages 已选择 Deploy from a branch，分支 `gh-pages`，目录 `/ (root)`。网站地址：https://cheshirejcat.github.io/xhs-wechat-gener/ 。更新 Pages 分支后由 GitHub 自动构建发布。
 
-个人私有仓库无法设置禁止 fork 的开关；仓库保持私有、未添加协作者，公众无法访问或 fork 仓库。公开仓库无法禁止 fork。Pages 公开后，浏览器收到的 HTML、CSS、JavaScript 与图片仍可被访问者复制。
+仓库按用户确认改为公开，以启用免费 GitHub Pages；公开仓库无法禁止 fork。浏览器收到的 HTML、CSS、JavaScript 与图片可被访问者复制。
 
 网站支持编辑与长图预览；“保存到相册”依赖小红书容器，在普通浏览器不可用。
 
